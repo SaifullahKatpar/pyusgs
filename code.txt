@@ -1,0 +1,8 @@
+    <!-- http://ssei.herokuapp.com/water#Alaska -->
+
+    <owl:NamedIndividual rdf:about="http://ssei.herokuapp.com/water#Alaska">
+        <rdf:type rdf:resource="http://ssei.herokuapp.com/water#State"/>
+        <ontologies:alpha_state_code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AK</ontologies:alpha_state_code>
+        <ontologies:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alaska</ontologies:name>
+        <ontologies:numeric_state_code rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">02</ontologies:numeric_state_code>
+    </owl:NamedIndividual>
